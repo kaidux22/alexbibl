@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+
+
+# Ignore raw datasets
+*.csv
+*.json
+*.parquet
+*.h5
+*.npz
